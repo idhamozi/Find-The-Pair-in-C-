@@ -1,3 +1,3 @@
-Final Project untuk Pemrograman Dasar
+# Final Project untuk Pemrograman Dasar
 
 Big thanks to Parisya Shidqi Yusyarnanda!
